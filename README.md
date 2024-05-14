@@ -13,7 +13,7 @@ This project tackles that very scenario by providing a solution to reassemble a 
 This project offers an algorithmic solution to the age-old problem of reconstructing a shredded image. Leveraging Python and libraries such as NumPy, Pillow (PIL), and OpenCV, it provides a systematic approach to piece together shredded fragments of an image. The algorithm assumes equal-width shreds and operates on a grayscale representation of the image to simplify the comparison process. By identifying similarities between adjacent shreds, the algorithm progressively orders the fragments until the complete image is reconstructed.
 
 ## :zap: Usage
-Write about how to use this project.
+To use this project, follow these steps:
 
 ###  :electric_plug: Installation
 - Clone the repository from GitHub
