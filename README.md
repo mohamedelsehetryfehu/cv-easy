@@ -27,7 +27,7 @@ If you wish to contribute to the development of this project, follow the guideli
 ### :notebook: Pre-Requisites
 Ensure you have the following prerequisites installed:
 
-- Python (version X.X.X)
+- Python
 - NumPy
 - Pillow (PIL)
 - OpenCV
