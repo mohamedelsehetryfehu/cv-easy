@@ -16,7 +16,7 @@ This project offers an algorithmic solution to the age-old problem of reconstruc
 To use this project, follow these steps:
 
 ###  :electric_plug: Installation
-- Clone the repository from GitHub
+- Clone the repository.
 - Install the required dependencies.
 - Ensure you have Python installed on your system.
 - Place your shredded image in the project directory.
@@ -35,7 +35,7 @@ Ensure you have the following prerequisites installed:
 ###  :nut_and_bolt: Development Environment
 To set up the development environment, follow these steps:
 
-- Clone the repository from GitHub: repository_link
+- Clone the repository.
 - Install the required dependencies.
 - Set up your development environment (e.g., virtual environment, IDE).
 - Start coding and contribute to the project!
